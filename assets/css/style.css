@@ -1,0 +1,23 @@
+#wrapper{
+	width: 900px;
+	margin: 0 auto;
+}
+
+#header{
+	height: 100px;
+	background: #337ab7;
+	color: #fff;
+	margin-bottom: 20px;
+}
+
+#content{
+	min-height: 500px;
+}
+
+#footer{
+	height: 100px;
+	background: #286090;
+	color: #fff;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
